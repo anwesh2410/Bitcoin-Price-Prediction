@@ -37,7 +37,7 @@ The [paper](9.pdf) contains all details of algorithms used along with results, a
   * ARMA
   * ARIMA
   * SARIMAX
-* SARIMAX + GARCH on the residuals of SARIMAX model
+* LSTM
 * VAR Model
 
 ### Python Dependencies:
