@@ -59,7 +59,7 @@ OR
 
 ### How to Run
 1. cd \<PROJECT ROOT DIRECTORY\>
-2. python \<filename\>.py
+2. python \<filename\>.py  (choose python file as need from the descriptions)
 
 ### File Descriptions:
 * auto-ARIMA.py: Runs automated gridsearch from pmdarima library, to find the best model parameters.
